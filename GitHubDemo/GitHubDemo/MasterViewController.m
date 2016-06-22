@@ -12,6 +12,7 @@
 @interface MasterViewController ()
 {
     int _a;
+    NSString *_name;
 }
 @property NSMutableArray *objects;
 @end
